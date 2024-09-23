@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026461964635",
+    "project_id": "todo-app-90941",
+    "storage_bucket": "todo-app-90941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026461964635:android:e3f374305cec2a7933e27e",
+        "android_client_info": {
+          "package_name": "com.kindubai.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaK9z8E5Ajqm_kpohuuN5A8MQvDbx7lh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
